@@ -28,7 +28,7 @@ double getAverage(int A[], int size){
 
 int main() {
     
-    int arr[10] = {-6, -8, -50, -7, -7, 12, 0, 0, 0, 188};
+    int arr[10] = {-6, -8, -50, -7, -7, 12, 0, 0, 0, 288};
     double ans = getAverage(arr, 10);
     
     printf("The average is ans=%f  \n", ans);
